@@ -1,0 +1,2 @@
+normal pizza,500.0,5
+biriyanichicken,200.0,2
